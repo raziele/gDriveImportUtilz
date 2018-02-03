@@ -1,0 +1,7 @@
+Google Colaboratory allows you to create, manage and run Jupyter notebooks directly from Google Drive.
+
+This repo demonstrating how to import a file (CSV in this case) that is hosted on Google Drive into a Pandas DataFrame using only Google's REST API
+
+Repo contains a file with useful functions and a demo script.
+
+Enjoy!
